@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e9119adb.css","mappings":"AAEC,WAEC,WAAY,CADZ,UAED,CAGA,GACC,4BAA8B,CAC9B,cAAe,CACf,eAAiB,CACjB,iBACF","sources":["App.css"],"sourcesContent":["\n\n .btn-equal{\n  width: 60px;\n  height: 45px;\n }\n\n\n h1 {\n  font-family: Arial, sans-serif;\n  font-size: 36px;\n  font-weight: bold;\n  text-align: center;\n}"],"names":[],"sourceRoot":""}
