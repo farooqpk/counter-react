@@ -11,11 +11,11 @@ function App() {
     <div className="App d-flex flex-column align-items-center justify-content-center" style={{ height: "100vh" }}>
 
       <div className='mb-5'>
-        <h1>Counter</h1>
+        <h1 className='head'>Counter</h1>
       </div>
 
   <div className="card border-dark bg-light text-center mb-4 w-50">
-    <div className="card-body text-primary">{count}</div>
+    <h1 className="card-body text-primary">{count}</h1>
   </div>
 
   <div className="d-flex ">
